@@ -10,13 +10,13 @@ This game is currently only available to Patreon members. If you'd like to becom
 ## Installing the Game
 The game comes as a `.zip` file and does not include an installer. Installing the game is as simple as unzipping the `.zip` file and placing the game folder wherever you like on your computer.
 
-**If you encounter a DLL error**, you need to install some standard dependencies. These installers are included for you in the `installation/` folder in the game. Run the installers located in this folder and the errors should go away.
-
 ## Running the Game
 1. Open the `bin/` folder in the game directory
 ![Alt text](docs/public/03_running_game.png?raw=true)
 2. Run `cosmospeed.exe`
 ![Alt text](docs/public/04_running_game.png?raw=true)
+
+**If you encounter a DLL error**, you need to install some standard dependencies. These installers are included for you in the `installation/` folder in the game. Run the installers located in this folder and the errors should go away.
 
 ## Controls
 | Action | Input |

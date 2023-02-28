@@ -39,7 +39,7 @@ The game comes as a `.zip` file and does not include an installer. Installing th
 **The game intentionally hides the cursor and locks the mouse to the center of the screen.** To release the mouse, press the Windows key or tab into another application to take focus away from the game window. Reactivating the game window will re-hide the cursor.
 
 ### Toggling Between Mouse Steering and Keyboard Steering
-Pressing either the `left arrow` or `up arrow` keys will toggle the game to keyboard steering. To toggle back to mouse steering, press any of the mouse buttons.
+Pressing either the `left arrow` or `right arrow` keys will toggle the game to keyboard steering. To toggle back to mouse steering, press any of the mouse buttons.
 
 ### Free-cam controls
 From the cockpit view, **press tab 3 times to activate free-cam.**

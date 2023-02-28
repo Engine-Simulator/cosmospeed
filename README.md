@@ -48,7 +48,7 @@ From the cockpit view, **press tab 3 times to activate free-cam.**
 | Look left/right/up/down | Move mouse |
 | Move forward/back/left/right | `w`/`s`/`a`/`d` keys |
 | Fly forward/fly backward | `r`/`f` keys |
-| Move slowly | Middle mouse button |
+| Move slowly | Hold `MMB` |
 
 ## Changing Engines
 1. Open `assets/main.mr` in the game directory

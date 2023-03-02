@@ -132,11 +132,11 @@ The scene should look something like this:
 1. Click `File`, `Save As...` and save wherever you like on your computer with a descriptive name
 2. Press `a` to select all currently visible objects in the scene
 3. Click `File`, `Export` and from the dropdown select `Delta Interchange Asset (.dia)`. If this option doesn't appear, try reinstalling the addon from step 2
-3. Name the file something descriptive and place it in the `assets/vehicles/` filder. Keep all the default settings and press `Export Delta Asset`
+3. Name the file something descriptive and place it in the `assets/vehicles/` folder. Keep all the default settings and press `Export Delta Asset`
 ![Alt text](docs/public/09_blender.png?raw=true)
 4. Change the `vehicle_asset_file` parameter in your vehicle's `.mr` file to point to this new asset file
 ![Alt text](docs/public/10_blender.png?raw=true)
-5. Folling the steps for changing vehicles above and make sure `main.mr` points to your new car's `.mr` file
+5. Follow the steps for changing vehicles above and make sure `main.mr` points to your new car's `.mr` file
 6. Run *Cosmospeed*
 ![Alt text](docs/public/11_blender.png?raw=true)
 

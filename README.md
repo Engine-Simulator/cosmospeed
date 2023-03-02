@@ -101,7 +101,7 @@ If the game crashes immediately when opened, follow these steps:
 | `limit_flex` | **UNUSED** |
 | `simulate_flex` | **UNUSED** |
 | `max_brake_force` | **UNUSED** [Use `max_brake_torque` instead] |
-| `coeff_static_friction` | Friction coefficient between the tire and the ground while stationary |
+| `coeff_static_friction` | Friction coefficient between the tire and the ground while not sliding |
 | `coeff_dynamic_friction` | Friction coefficient between the tire and the ground while sliding |
 | `wheel_base` | The distance from the front to rear wheel centers |
 | `track` | The distance from the center of the left front/rear tire to the center of the right front/rear tire |

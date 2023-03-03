@@ -58,7 +58,7 @@ From the cockpit view, **press tab 3 times to activate free-cam.**
 
 ## Changing Vehicles
 1. Open `assets/main.mr` in the game directory
-2. On line 21, change the text enclosed in the quotes with the path to the vehicle you'd like to use. The path is relative to the `assets/` directory
+2. On line 12, change the text enclosed in the quotes with the path to the vehicle you'd like to use. The path is relative to the `assets/` directory
 
 ![Alt text](docs/public/02_changing_vehicles.png?raw=true)
 
